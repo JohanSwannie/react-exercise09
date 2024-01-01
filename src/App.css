@@ -6,6 +6,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   width: 90vw;
+  height: 100vh;
   margin: auto;
   grid-gap: 3vw;
   color: #fff;
