@@ -10,7 +10,7 @@ const Color = ({ hex, description, setBackgroundColor }) => {
       }}
       onClick={() => setBackgroundColor(hex)}
     >
-      <h2 id={description}>{description}</h2>
+      <h3 id={description}>{description}</h3>
     </div>
   );
 };
